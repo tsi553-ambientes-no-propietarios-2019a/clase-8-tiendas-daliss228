@@ -15,5 +15,6 @@ include('common/utils.php');
         <input type="password" name="password" placeholder="Clave">
         <button>Ingresar</button>
     </form>
+    <br><a href="registration.php">No tienes cuenta, regístrate</a>
 </body>
 </html>
